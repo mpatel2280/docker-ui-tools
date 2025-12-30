@@ -1,0 +1,17 @@
+docker-compose -f portainer-compose.yaml up
+
+https://localhost:9443/#!/auth
+
+admin / admin1234567890
+
+
+docker-compose -f arcane-compose.yaml up 
+arcane
+arcane-admin
+
+arcane-admin-123456
+
+https://github.com/getarcaneapp/arcane?tab=readme-ov-file
+https://getarcane.app/
+
+https://getarcane.app/generator ***
